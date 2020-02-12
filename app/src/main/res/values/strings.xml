@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="btn9" translatable="false">9</string>
+</resources>
